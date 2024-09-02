@@ -40,4 +40,4 @@ A versatile tool to verify the availability of usernames on Discord.
 - You need to get your Discord's account's authorization token and paste it inside the variable: `TOKEN` . On how to do that check these following steps: https://www.androidauthority.com/get-discord-token-3149920/
 - Make sure to have a decent delay or you may get your account disabled. 
 
-
+maru goat :3
